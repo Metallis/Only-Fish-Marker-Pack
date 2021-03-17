@@ -3,7 +3,7 @@ This Marker Pack is primarily developed by Metallis.6105 (Discord: Metallis#9388
 
 I develop this pack as I have time (which is quite limited) and focus my efforts primarily on usage with [Blish HUD](https://blishhud.com/) over [GW2 TacO](http://www.gw2taco.com/) as Blish provides some nice QoL features to make the markers and trails a little less obtrusive while still being useful.
 
-This pack provides many sets of markers and trails, primarily repurposed from [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download) and [ReActif's](https://www.heinze.fr/taco/?lang=en) packs, with some cosmetic changes to make them a little less obtrusive and sleeker, in addition to some further minor optimizations.
+This pack provides many sets of markers and trails, primarily based on the hard work from [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download) and [ReActif's](https://www.heinze.fr/taco/?lang=en) packs, with some cosmetic changes to make them a little less obtrusive and sleeker, in addition to some further minor optimizations.
 
 **THIS PACK GENERALLY ASSUMES THE FOLLOWING**
 1) You have and can apply common sense. There are usually as few markers and icons as I can manage while still conveying the necessary information, for visibility's sake.
@@ -13,3 +13,15 @@ This pack provides many sets of markers and trails, primarily repurposed from [T
 For a full list of features, hop on over to the Wiki. (Planned for future)
 
 Support Discord: N/A for now
+
+**OTHER PACKS YOU MAY LIKE:** (in no particular order)
+ - General
+   - [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download)
+   - [ReActif's](https://www.heinze.fr/taco/?lang=en)
+ - Beetle Racing
+   - [\[RACE\] Beetle Races](https://goo.gl/AQmm4F)
+   - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
+ - Node Farms
+   - [\[FAST\] Farming](https://fast.farming-community.eu/farming/guides/fast-taco-marker)
+ - Fractals/Strikes/Raids
+   - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
