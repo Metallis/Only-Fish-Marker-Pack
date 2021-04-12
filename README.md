@@ -18,10 +18,12 @@ Support Discord: N/A for now
  - General
    - [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download)
    - [ReActif's](https://www.heinze.fr/taco/?lang=en)
+ - Map Completion
+   - [Teh's Trails](https://github.com/xrandox/TehsTrails) 
+ - Fractals/Strikes/Raids
+   - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
+ - Node Farms
+   - [\[FAST\] Farming](https://fast.farming-community.eu/farming/guides/fast-taco-marker)
  - Beetle Racing
    - [\[RACE\] Beetle Races](https://goo.gl/AQmm4F)
    - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
- - Node Farms
-   - [\[FAST\] Farming](https://fast.farming-community.eu/farming/guides/fast-taco-marker)
- - Fractals/Strikes/Raids
-   - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
