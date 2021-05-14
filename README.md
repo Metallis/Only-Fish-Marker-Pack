@@ -27,3 +27,5 @@ Support Discord: N/A for now
  - Beetle Racing
    - [\[RACE\] Beetle Races](https://goo.gl/AQmm4F)
    - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
+- HP Trains
+   - [Czokalapik's HP Trains](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/src/master/)
