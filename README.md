@@ -7,7 +7,7 @@ I strive to make my markers and trails (especially trails) as inclusive as possi
 
 **THIS PACK GENERALLY ASSUMES THE FOLLOWING**
 1) You have and can apply common sense. There are usually as few markers and icons as I can manage while still conveying the necessary information, for visibility's sake.
-    - EX: If you're following a specifc trail, you know what to look for when it terminates. Think PSNA. I won't mark the person specifically.
+    - EX: If you're following a specific trail, you know what to look for when it terminates. Think PSNA. I won't mark the person specifically.
 2) You have access to gliding and (most) mounts, but not necessarily all advanaced movement skills like [Ley-Line Gliding](https://wiki.guildwars2.com/wiki/Ley_Line_Gliding), [Bond of Faith](https://wiki.guildwars2.com/wiki/Bond_of_Faith_(mastery)) or [Ash Legion Mount Stealth](https://wiki.guildwars2.com/wiki/Ash_Legion_Mount_Stealth).
 
 **CURRENT CONTENTS:**
