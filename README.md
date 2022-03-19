@@ -9,7 +9,7 @@ For a full list of features, hop on over to the [Wiki](https://github.com/Metall
 
 If you have an idea for a marker pack you want me (or someone) to try and tackle, please submit your ideas [HERE](https://github.com/blish-hud/Blish-HUD/discussions/categories/requested-marker-packs)!
 
-Support Discord: N/A for now
+Support: You may find and tag me directly on the [Blish HUD Discord](https://discord.gg/FYKN3qh) for now!
 
 **OTHER PACKS YOU MAY LIKE:** (in no particular order)
  - General
