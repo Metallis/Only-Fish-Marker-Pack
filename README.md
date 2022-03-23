@@ -28,3 +28,5 @@ Support: You may find and tag me directly on the [Blish HUD Discord](https://dis
    - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
 - HP Trains
    - [Czokalapik's HP Trains](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/src/master/)
+
+I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
