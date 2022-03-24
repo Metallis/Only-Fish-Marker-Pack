@@ -19,6 +19,8 @@ Support: You may find and tag me directly on the [Blish HUD Discord](https://dis
    - [Movement on the World](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki)
  - Map Completion
    - [Teh's Trails](https://github.com/xrandox/TehsTrails) 
+   - [Nexploration](https://github.com/Nexrym/Nexploration) (EoD Map Comp)
+   - [Red's EoD HP Run](https://www.reddit.com/r/Guildwars2/comments/t56gak/taco_trails_for_eod_hps/)
  - Fractals/Strikes/Raids
    - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
  - Node Farms
