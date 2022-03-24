@@ -13,22 +13,24 @@ Support: You may find and tag me directly on the [Blish HUD Discord](https://dis
 
 **OTHER PACKS YOU MAY LIKE:** (in no particular order)
  - General
-   - [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download)
-   - [ReActif's](https://www.heinze.fr/taco/?lang=en)
+    - [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download)
+    - [ReActif's](https://www.heinze.fr/taco/?lang=en)
  - The Scenic Route
-   - [Movement on the World](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki)
+    - [Movement on the World](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki)
  - Map Completion
-   - [Teh's Trails](https://github.com/xrandox/TehsTrails) 
-   - [Nexploration](https://github.com/Nexrym/Nexploration) (EoD Map Comp)
-   - [Red's EoD HP Run](https://www.reddit.com/r/Guildwars2/comments/t56gak/taco_trails_for_eod_hps/)
+    - [Teh's Trails](https://github.com/xrandox/TehsTrails) 
+    - [Nexploration](https://github.com/Nexrym/Nexploration) (EoD Map Comp)
  - Fractals/Strikes/Raids
-   - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
+    - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
  - Node Farms
-   - [\[FAST\] Farming](https://fast.farming-community.eu/farming/guides/fast-taco-marker)
+    - [\[FAST\] Farming](https://fast.farming-community.eu/farming/guides/fast-taco-marker)
  - Beetle Racing
-   - [\[RACE\] Beetle Races](https://goo.gl/AQmm4F)
-   - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
+    - [\[RACE\] Beetle Races](https://goo.gl/AQmm4F)
+    - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
 - HP Trains
-   - [Czokalapik's HP Trains](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/src/master/)
+    - [Czokalapik's HP Trains](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/src/master/)
+    - [Red's EoD HP Run](https://www.reddit.com/r/Guildwars2/comments/t56gak/taco_trails_for_eod_hps/)
+- One-Offs
+    - [Lion's Arch Exterminator](https://www.reddit.com/r/GW2TacO/comments/eazd7s/trail_and_markers_for_lions_arch_exterminator/)
 
 I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
