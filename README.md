@@ -18,8 +18,8 @@ Support: You may find and tag me directly on the [Blish HUD Discord](https://dis
  - The Scenic Route
     - [Movement on the World](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki)
  - Map Completion
-    - [Teh's Trails](https://github.com/xrandox/TehsTrails) 
-    - [Nexploration](https://github.com/Nexrym/Nexploration) (EoD Map Comp)
+    - [Teh's Trails](https://github.com/xrandox/TehsTrails) (updated for EoD)
+    - [Nexploration](https://github.com/Nexrym/Nexploration) (EoD Map Comp, specifically)
  - Fractals/Strikes/Raids
     - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
  - Node Farms
@@ -31,6 +31,6 @@ Support: You may find and tag me directly on the [Blish HUD Discord](https://dis
     - [Czokalapik's HP Trains](https://bitbucket.org/czokalapik/czokalapiks-guides-for-gw2taco/src/master/)
     - [Red's EoD HP Run](https://www.reddit.com/r/Guildwars2/comments/t56gak/taco_trails_for_eod_hps/)
 - One-Offs
-    - [Lion's Arch Exterminator](https://www.reddit.com/r/GW2TacO/comments/eazd7s/trail_and_markers_for_lions_arch_exterminator/)
+    - [Lion's Arch Exterminator](https://www.reddit.com/r/GW2TacO/comments/eazd7s/trail_and_markers_for_lions_arch_exterminator/) (needs to be repacked as `.zip` or `.taco`, doesn't work as `.rar`)
 
 I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
