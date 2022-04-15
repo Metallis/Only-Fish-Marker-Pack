@@ -1,4 +1,4 @@
-# Metal-Marker-Myriad
+# Only-Fish-Marker-Pack
 This Marker Pack is primarily developed by Metallis.6105 (Discord: Metallis#9388) with significant help from maanlichtje from the [Blish HUD Discord](https://discord.gg/FYKN3qh)
 
 I develop this pack as I have time (read: please understand pack updates may not come quickly) and focus my efforts primarily on usage with [Blish HUD](https://blishhud.com/) over [GW2 TacO](http://www.gw2taco.com/) as Blish provides some nice QoL features to make the markers and trails a little less obtrusive while still being useful. 
