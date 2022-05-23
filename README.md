@@ -1,5 +1,10 @@
-# Only-Fish-Marker-Pack
-This Marker Pack is primarily developed by Metallis.6105 (Discord: Metallis#9388) with significant help from maanlichtje from the [Blish HUD Discord](https://discord.gg/FYKN3qh)
+# OnlyFish Marker Pack
+This Marker Pack is primarily developed by Metallis.6105 (Discord: Metallis#9388) with significant help from the following folks.
+ - maanlichtje
+ - LDR
+ - Neroc
+
+I also receive information from various people on the [Blish HUD Discord](https://discord.gg/FYKN3qh).
 
 I develop this pack as I have time (read: please understand pack updates may not come quickly) and focus my efforts primarily on usage with [Blish HUD](https://blishhud.com/) over [GW2 TacO](http://www.gw2taco.com/) as Blish provides some nice QoL features to make the markers and trails a little less obtrusive while still being useful. 
 
@@ -13,19 +18,7 @@ Support: You may find me on the [Metal's Marker-mancy](https://discord.gg/FP8dQj
 
 I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
 
-**OTHER PACKS YOU MAY LIKE:** (in no particular order)
- - General
-    - [Tekkit's](http://tekkitsworkshop.net/index.php/gw2-taco/download)
-    - [ReActif's](https://www.heinze.fr/taco/?lang=en)
- - The Scenic Route
-    - [Movement on the World](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki)
- - Map Completion
-    - [Teh's Trails](https://github.com/xrandox/TehsTrails) (updated for EoD)
-    - [Nexploration](https://github.com/Nexrym/Nexploration) (EoD Map Comp, specifically)
- - Fractals/Strikes/Raids
-    - [QuitarHero's PvE Pack](https://github.com/QuitarHero/Heros-Marker-Pack)
- - Node Farms
-    - [\[FAST\] Farming](https://fast.farming-community.eu/farming/guides/fast-taco-marker)
+**OTHER PACKS YOU MAY LIKE:** (in no particular order, I don't believe these appear in the Blish auto-update list for one reason or another)
  - Beetle Racing
     - [\[RACE\] Beetle Races](https://goo.gl/AQmm4F)
     - [\[TINY\] Beetle Races](https://tinyarmy.org/beetle/)
