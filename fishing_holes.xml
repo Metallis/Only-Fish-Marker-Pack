@@ -3064,5 +3064,18 @@
         <POI MapID="1465" xpos="-303.935" ypos="1.37639" zpos="21.5678" type="fishing.fishingholes.mysterious" GUID="q3Cr9bahqE2PZSEjY7aS6g=="/>
         <POI MapID="1465" xpos="-333.682" ypos="1.37639" zpos="-232.696" type="fishing.fishingholes.mysterious" GUID="3ra3KZg7/UezcHJa+HrqqA=="/>
         <POI MapID="1465" xpos="-31.4857" ypos="1.37639" zpos="-306.732" type="fishing.fishingholes.mysterious" GUID="oZzCxZepk0ShceaOccLxAw=="/>
+        <!-- Gyala Delve -->
+        <POI MapID="1490" xpos="142.0137" ypos="1.37639" zpos="-356.3939" type="fishing.fishingholes.cavern" GUID="QoDt2ZNKYEaCeF/mMoKx1w=="/>
+        <POI MapID="1490" xpos="286.3575" ypos="1.37639" zpos="-393.4825" type="fishing.fishingholes.cavern" GUID="Q0F1Q8iV4EeN1b1TiU2TDg=="/>
+        <POI MapID="1490" xpos="416.3852" ypos="1.37639" zpos="-386.5752" type="fishing.fishingholes.cavern" GUID="tIgDn6rXakycHtaVgnzUcg=="/>
+        <POI MapID="1490" xpos="197.617" ypos="1.37639" zpos="-883.8531" type="fishing.fishingholes.cavern" GUID="nBZZSQPoSkuAD3YPSel4sw=="/>
+        <POI MapID="1490" xpos="232.4187" ypos="1.37639" zpos="-821.5263" type="fishing.fishingholes.cavern" GUID="Z+C48JRmcUGj6pSEwZKHEg=="/>
+        <POI MapID="1490" xpos="36.1391" ypos="1.37639" zpos="-373.946" type="fishing.fishingholes.cavern" GUID="mcWhy+KslEu20igXLgJM+w=="/>
+        <POI MapID="1490" xpos="259.7209" ypos="1.37639" zpos="-368.1187" type="fishing.fishingholes.cavern" GUID="SmRZBtNVG0GVdJcxdcNVqQ=="/>
+        <POI MapID="1490" xpos="336.3097" ypos="1.37639" zpos="-884.3657" type="fishing.fishingholes.cavern" GUID="Zzk9OYj3tEqe3T7sYMM7YA=="/>
+        <POI MapID="1490" xpos="330.4524" ypos="1.37639" zpos="-845.6796" type="fishing.fishingholes.cavern" GUID="91jmqyKqRk+TtEhPkIJ6Pw=="/>
+        <POI MapID="1490" xpos="61.76501" ypos="1.37639" zpos="-359.5756" type="fishing.fishingholes.cavern" GUID="k5GWGbRvrE2WOUWttgS7xQ=="/>
+        <POI MapID="1490" xpos="322.489" ypos="1.37639" zpos="-399.1333" type="fishing.fishingholes.cavern" GUID="JEnB3qqKskWxqLWBw3loPA=="/>
+        <POI MapID="1490" xpos="188.3165" ypos="1.37639" zpos="-342.0104" type="fishing.fishingholes.cavern" GUID="yHzt6w7iAEO56zZivTxJQQ=="/>
     </POIs>
 </OverlayData>
