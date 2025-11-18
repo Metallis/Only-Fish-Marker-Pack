@@ -1,3 +1,5 @@
+This repository is archived. No future updates will be released here. Please grab the [MMM](https://github.com/Metallis/Metal-Marker-Myriad) pack, which now includes all the content here.
+
 # OnlyFish Marker Pack
 This Marker Pack is primarily developed by Metallis.6105 (Discord: Metallis#9388) with significant help from the following folks.
  - maanlichtje
@@ -16,6 +18,6 @@ There are 3 color variants of the marker pin that can be used by editing the `.x
 
 If you have an idea for a marker pack you want me (or someone) to try and tackle, please submit your ideas [HERE](https://github.com/blish-hud/Blish-HUD/discussions/categories/requested-marker-packs)!
 
-Support: You may find me on the [Metal's Marker-mancy](https://discord.gg/FP8dQj6KBj) Discord! This is for all my packs!
+Support: You may find me on the [GW2 Marker-mancy](https://discord.gg/FP8dQj6KBj) Discord! This is for all my packs!
 
 I [do accept donations](https://ko-fi.com/metallis) if you truly wish to offer more than your kind words. They're never expected, but they're absolutely always appreciated.
